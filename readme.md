@@ -1,5 +1,5 @@
 # Sitecore.Support.95848.132603
-Takes into account the language parameter when using Recently Modified Items and Recently Created Items search options
+This patch takes into account the `language` parameter when using `Recently Modified Items` and `Recently Created Items` search options.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.95848.132603/blob/master/LICENSE).  
